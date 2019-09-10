@@ -1,0 +1,28 @@
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.deps.json
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.json
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.deps.json
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.json
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.dev.json
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb

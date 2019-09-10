@@ -1,0 +1,18 @@
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.deps.json
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\asus\Desktop\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.deps.json
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.Entities\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.AssemblyInfo.cs
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\asus\Desktop\Resources And Tests\Projects\ShopApp (Layered Arch)\ShopApp.Entities\obj\Debug\netcoreapp2.2\ShopApp.Entities.pdb
